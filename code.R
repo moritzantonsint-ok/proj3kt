@@ -56,3 +56,4 @@ print(tables)
 df_d <- tbl(con, "c17d") %>% 
   filter(db020 == "AT") %>% 
   collect(n = Inf)
+# test Lara
