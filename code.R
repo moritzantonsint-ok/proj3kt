@@ -57,3 +57,9 @@ df_d <- tbl(con, "c17d") %>%
   filter(db020 == "AT") %>% 
   collect(n = Inf)
 # test Lara
+# test boris 
+x<-"test"
+x
+y<-"HALLO"
+y
+
