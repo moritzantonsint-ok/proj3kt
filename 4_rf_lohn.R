@@ -32,7 +32,7 @@ rf_data <- silcw %>%
     Maternal    = Maternal_pb190,
     Health      = Health_ph010,
     OwnorRent   = OwnorRent_hh021,
-    Degruba     = Degruba_db100,
+    Degruba     = degruba_db100,
     # Gewicht für Modell
     weight      = pw
   ) %>%
